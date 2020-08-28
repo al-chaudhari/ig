@@ -12,5 +12,12 @@
   "devDependencies": {
     "eslint": "^7.7.0",
     "prettier": "^2.1.1"
+  },
+  "bin": {
+    "ig": "index.js"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "inquirer-autocomplete-prompt": "^1.1.0"
   }
 }
