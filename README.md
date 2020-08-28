@@ -2,7 +2,10 @@
 
 Ig is a Simple Terminal searchable .gitignore scripts
 
+[![Gif](./video.gif)]
+
 # installation
+
 
 ```bash
 npm i -g @al-chaudhari/ig

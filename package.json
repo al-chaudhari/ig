@@ -1,5 +1,5 @@
 {
-  "name": "ig",
+  "name": "@al-chaudhari/ig",
   "version": "1.0.0",
   "description": "Ig is a Simple Terminal searchable .gitignore scripts",
   "main": "index.js",
