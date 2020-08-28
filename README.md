@@ -2,7 +2,7 @@
 
 Ig is a Simple Terminal searchable .gitignore scripts
 
-[![Gif](./video.gif)]
+[![Gif](./assets/video.gif)]
 
 # installation
 
