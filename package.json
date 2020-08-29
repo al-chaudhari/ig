@@ -1,6 +1,6 @@
 {
   "name": "@al-chaudhari/ig",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Ig is a Simple Terminal searchable .gitignore scripts",
   "main": "index.js",
   "scripts": {
