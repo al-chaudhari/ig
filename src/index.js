@@ -16,7 +16,7 @@ inquirer
     {
       type: "autocomplete",
       name: "file",
-      message: "Select a state to travel from",
+      message: "Select .gitignore type",
       source: (answersSoFar, input) => {
         return input
           ? filesLowercase.filter((e) => e.startsWith(input))
